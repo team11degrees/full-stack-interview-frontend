@@ -15,7 +15,7 @@ The task is to replicate the ui below.
 - Add simple pagination by default showing 5 records.
 
 ## Backend
-- An sql data file is provided in the repo. (payroll-data.sql).
+- An sql data file is provided in the repo. [payroll-data.sql](https://github.com/team11degrees/full-stack-interview-frontend/blob/main/payroll-data.sql).
 - Create a database and import the data.
 - Set up a fresh Laravel project.
 - Add Payroll model plus Controller(s) as you see fit.
